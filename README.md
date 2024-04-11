@@ -9,6 +9,6 @@ College name: Stella Mary's College of Engineering
 
 Login credentials:
 
-username: root
+username: aksha berin
 
 Password: root
