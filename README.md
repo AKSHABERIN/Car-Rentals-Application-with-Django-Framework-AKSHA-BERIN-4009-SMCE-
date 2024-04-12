@@ -1,4 +1,4 @@
-# Web-Application-using-Django-Framework-AKSHA-BERIN-M-4009-SMCE-
+# Car-Rentals-Application-using-Django-Framework-AKSHA-BERIN-M-4009-SMCE-
 Project implemented by:
 
 Name: AKSHA BERIN M
@@ -9,6 +9,6 @@ College name: Stella Mary's College of Engineering
 
 Login credentials:
 
-username: aksha berin
+username: akshaberin
 
 Password: root
